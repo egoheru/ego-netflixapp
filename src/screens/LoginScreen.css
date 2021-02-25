@@ -38,6 +38,7 @@
 .loginScreen__gradient {
     width: 100%;
     z-index: 1;
+    /* height: 100vh; */
     height: 140vh;
     background: rgba(0, 0, 0, 0.4);
     background-image: linear-gradient(
